@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-	<img width="128" src="./src/icons/main/universal.svg"/>
+	<img width="128" src="https://github.com/web-scrobbler/web-scrobbler/blob/master/src/icons/main/universal.svg"/>
 </p>
 <h1>Web Scrobbler</h1>
 
