@@ -19,12 +19,13 @@
 
 Web Scrobbler helps online music listeners to scrobble their playback history.
 
-In addition to the Web Scrobbler extension itself, our organization maintains a number of other projects.
+In addition to the [Web Scrobbler extension][WebScrobbler] itself, our organization maintains a number of other projects.
 
 These projects include linter config files and other resources we use, and [metadata-filter][MetadataFilter].
 
 
 [MetadataFilter]: https://github.com/web-scrobbler/metadata-filter
+[WebScrobbler]: https://github.com/web-scrobbler/web-scrobbler
 
 <!-- Badges -->
 
