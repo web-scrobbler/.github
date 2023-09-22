@@ -1,0 +1,4 @@
+{
+	"name": "PR Labels",
+	"description": "Forces PRs to have descriptive labels in order to be merged"
+}
